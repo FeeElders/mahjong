@@ -1,0 +1,7 @@
+
+
+#Emacs autosave files are ignored
+*~*
+#*
+__pycache__
+flask_session
